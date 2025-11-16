@@ -1,6 +1,3 @@
-# ACMANT
-- ACMANTv4.4 free software for the automatic homogenization of climatic time series, together with its Manual and scientific description.
-
-- ACMANTv6.0 professional software package for the homogenization of climatic time series.
+ACMANTv6.0 professional software package for the homogenization of climatic time series.
 Its Manual is published here, and the software can be purchased from the creator
 Peter Domonkos (dpeterfree@gmail.com, https://acmant.eu/)
